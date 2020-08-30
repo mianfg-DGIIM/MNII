@@ -1,5 +1,7 @@
 [⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM)
 
+![Repo image](https://repository-images.githubusercontent.com/288759229/2824c780-eae9-11ea-924b-f31f133fcdcd)
+
 # `MNII` Métodos Numéricos II
 
 | Nombre                | Ingeniería de Servidores |
